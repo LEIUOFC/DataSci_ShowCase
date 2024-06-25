@@ -1,4 +1,4 @@
-# Self-study on diverse projects
+# ShowCase related to Data science on diverse projects
 
 - Data cleaning processes
 - Exploratory Data Analysis (EDA)
