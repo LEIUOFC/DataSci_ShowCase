@@ -1,1 +1,11 @@
-A Regression project for prodicting house price from Kagge competation. The repo generated @ Jan/2024
+# Self-study on diverse projects
+
+- Data cleaning processes
+- Exploratory Data Analysis (EDA)
+   - Data visualization
+- Feature engineering
+- Regression models:
+  - Linear regression
+  - XGBoost regression
+          
+
